@@ -1,5 +1,10 @@
 Deployed at: [blog.weifanx.com](https://blog.weifanx.com/)
 
+<img width="2531" height="1196" alt="4dfca303-67eb-4f5c-ab12-7b3a2b203694" src="https://github.com/user-attachments/assets/954f0be0-c555-4786-9515-9633ae73124f" />
+
+<img width="2544" height="1192" alt="afbc2338-5e9f-4057-afe6-6ab8fa15a5aa" src="https://github.com/user-attachments/assets/5c0d2913-5725-48ce-a6dc-b8e8213798ab" />
+
+
 # **Blog Project**
 
 Welcome to our blog platform! This project is a modern, dynamic blogging application designed to create, view, edit, and manage posts with ease. Built using **React**, **MongoDB**, and a robust API, this platform offers a seamless experience for users to explore and share content.
